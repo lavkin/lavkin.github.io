@@ -7,5 +7,4 @@
 
 
   
-## nerding out ad nauseam
-## lavkin.github.io
+## nerding out ad nauseam  |  lavkin.github.io
