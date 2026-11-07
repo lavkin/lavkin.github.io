@@ -9,11 +9,19 @@ body {
 @media (prefers-color-scheme: light) {
   body {
     background-color: #ffdbac;
+  }
+  a {
+    color: #e0ac69;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #004242;
+    background-color: #001818;
+    color: #004242;
+  }
+  a {
+    color: #ffdbac;
   }
 }
 
